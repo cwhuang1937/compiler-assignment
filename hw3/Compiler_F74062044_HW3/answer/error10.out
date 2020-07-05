@@ -1,0 +1,5 @@
+error:4: x redeclared in this block. previous declaration at line 1
+error:5: undefined: y
+error:6: cannot assign to int32
+error:8: z redeclared in this block. previous declaration at line 3
+error:10: undefined: gg
